@@ -1,12 +1,12 @@
 # Phina Tshegofatso Selahle — Personal Portfolio
 
-[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Site-00d4ff?style=for-the-badge)](https://tshego1108.github.io/portfolio-site)
+[![Live Portfolio](https://img.shields.io/badge/_Live_Portfolio-Visit_Site-00d4ff?style=for-the-badge)](https://tshego1108.github.io/portfolio-site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/phina-tshegofatso-selahle-294a5a334)
 [![GitHub](https://img.shields.io/badge/GitHub-Tshego1108-181717?style=for-the-badge&logo=github)](https://github.com/Tshego1108)
 
 ---
 
-## 👩🏽‍💻 About This Portfolio
+## About This Portfolio
 
 A personal portfolio website for **Phina Tshegofatso Selahle** — Software Developer, AI Enthusiast, and BSc Mathematical Science Graduate from the University of Limpopo.
 
@@ -14,23 +14,23 @@ Built with a **dark modern tech aesthetic**, the site showcases projects, skills
 
 ---
 
-## ✨ Features
+## Features
 
-- ⚡ **Lightweight** — pure HTML, CSS & JavaScript, zero frameworks or build tools
-- 🎨 **Dark modern design** — navy background with electric cyan & purple gradient accents
-- 💎 **Glassmorphism UI** — frosted glass cards with subtle glow effects
-- 🔢 **Scroll-reveal animations** — elements animate in as you scroll down
-- 🗂️ **Project filter tabs** — filter projects by category (AI, Data, Health, Education)
-- 📬 **Working contact form** — powered by EmailJS, emails go straight to Gmail
-- 📄 **Downloadable CV** — PDF version included in the `docs/` folder
-- 📱 **Fully responsive** — optimised for desktop and mobile
+- **Lightweight** — pure HTML, CSS & JavaScript, zero frameworks or build tools
+- **Dark modern design** — navy background with electric cyan & purple gradient accents
+- **Glassmorphism UI** — frosted glass cards with subtle glow effects
+- **Scroll-reveal animations** — elements animate in as you scroll down
+- **Project filter tabs** — filter projects by category (AI, Data, Health, Education)
+- **Working contact form** — powered by EmailJS, emails go straight to Gmail
+- **Downloadable CV** — PDF version included in the `docs/` folder
+- **Fully responsive** — optimised for desktop and mobile
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
-portfolio-site/
+portfolio-split/
 │
 ├── index.html                    # Main HTML — all sections & structure
 │
@@ -41,7 +41,7 @@ portfolio-site/
 │       └── profile.jpg           # Graduation profile photo
 │
 ├── docs/
-│   ├── Phina_Selahle_CV.pdf     # CV — linked to Download CV button ✅
+│   ├── Phina_Selahle_CV.pdf     # CV — linked to Download CV button 
 │   └── Phina_Selahle_CV.docx   # CV — original Word version
 │
 ├── .gitignore
@@ -50,7 +50,7 @@ portfolio-site/
 
 ---
 
-## 🚀 Getting Started Locally
+## Getting Started Locally
 
 No build step needed — just open in your browser:
 
@@ -63,7 +63,7 @@ start index.html       # Windows
 
 ---
 
-## 🌐 Deploy to GitHub Pages (Free Hosting)
+## Deploy to GitHub Pages (Free Hosting)
 
 1. Push this repo to GitHub
 2. Go to **Settings → Pages**
@@ -72,7 +72,7 @@ start index.html       # Windows
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -84,7 +84,7 @@ start index.html       # Windows
 
 ---
 
-## 📬 Contact Form (EmailJS)
+## Contact Form (EmailJS)
 
 Credentials are already configured in `index.html`:
 
@@ -96,7 +96,7 @@ Credentials are already configured in `index.html`:
 
 ---
 
-## 🌐 Projects Featured
+## Projects Featured
 
 | Project | Category | Live Demo | GitHub |
 |---|---|---|---|
@@ -107,7 +107,7 @@ Credentials are already configured in `index.html`:
 
 ---
 
-## 🚀 Push to GitHub
+## Push to GitHub
 
 ```bash
 git init
