@@ -112,7 +112,7 @@ Credentials are already configured in `index.html`:
 ```bash
 git init
 git add .
-git commit -m "🚀 Launch portfolio — Phina Tshegofatso Selahle"
+git commit -m " Launch portfolio — Phina Tshegofatso Selahle"
 git branch -M main
 git remote add origin https://github.com/Tshego1108/portfolio-site.git
 git push -u origin main
